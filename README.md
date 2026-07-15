@@ -53,8 +53,9 @@ Currently exploring **Agentic AI**, **RAG Systems**, **LLMs**, and scalable back
 
 # 🚀 Featured Projects
 
-## 🧠 QuizCraft AI
-AI-powered personalized examination platform.
+## 🧠 QuizCraft AI – Intelligent RAG-Powered Examination Platform -
+Developed **QuizCraft AI**, an AI-powered examination platform that generates personalized, university-level assessments from uploaded study materials using Retrieval-Augmented Generation (RAG). Built a semantic search pipeline with LangChain, Sentence Transformers, Ollama, and Qdrant to retrieve contextually relevant content and generate accurate, context-aware questions while minimizing hallucinations. Designed a modular microservice architecture using FastAPI for AI services and Streamlit for the interactive frontend, enabling PDF ingestion, semantic indexing, AI-driven exam generation, and automated evaluation. Integrated vector embeddings, prompt engineering, and RESTful APIs to create a scalable AI learning platform capable of **running entirely offline** using locally hosted LLMs, ensuring privacy, low latency, and independence from cloud-based AI services.
+
 
 **Tech Stack**
 - FastAPI
@@ -63,13 +64,18 @@ AI-powered personalized examination platform.
 - Docker
 - Qdrant
 
-### Features
-- 📚 Personalized Quiz Generation
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Answer Evaluation
-- 📈 Performance Analytics
-- ⚡ Local LLM Inference
+## 🚀 Key Features
 
+- 🧠 Generate Personalized AI-Powered Examinations
+- 📚 Upload & Index Multiple Study PDFs
+- 🔍 Context-Aware RAG with Semantic Search
+- 🗄️ Vector Database Integration using Qdrant
+- 🤖 Offline AI using Ollama (No Cloud API Required)
+- ⚡ High-Performance FastAPI AI Backend
+- 📝 Interactive Exam Interface with Timer & Evaluation
+- 🎯 Automated Scoring & AI Feedback
+- 📈 Performance Analytics & Weak Topic Detection
+- 🔐 Privacy-Focused, Fully Local Deployment
 ---
 
 ## 🔒 AI-Powered Consent Flow Optimizer
