@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm a Computer Science undergraduate passionate about building scalable full-stack applications, AI-powered products, and cloud-native software. I enjoy solving real-world problems using Java, Spring Boot, React, modern AI frameworks, and AWS.
+I'm a Computer Science graduate passionate about building scalable full-stack applications, AI-powered products, and cloud-native software. I enjoy solving real-world problems using Java, Spring Boot, React, modern AI frameworks, and AWS.
 
 Currently exploring **Agentic AI**, **RAG Systems**, **LLMs**, and scalable backend architecture.
 
