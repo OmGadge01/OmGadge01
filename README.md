@@ -78,38 +78,53 @@ Developed **QuizCraft AI**, an AI-powered examination platform that generates pe
 - 🔐 Privacy-Focused, Fully Local Deployment
 ---
 
-## 🔒 AI-Powered Consent Flow Optimizer
+# 🔐 Consent Flow Optimizer – AI-Powered Privacy Risk Analyzer
 
-**Tech Stack**
-- React
-- Node.js
-- FastAPI
-- MongoDB
-- CatBoost
+Consent Flow Optimizer is a **full-stack privacy management platform** that helps users monitor, analyze, and manage website permission consents in real time. It combines a **Chrome Extension**, **React dashboard**, **Node.js backend**, and a **CatBoost-based Machine Learning service** to provide AI-driven privacy risk assessment for browser permission events.
 
-### Features
-- Chrome Extension
-- Privacy Risk Detection
-- AI-powered Prediction
-- Microservice Architecture
+The Chrome Extension captures permission requests such as **Location, Camera, and Microphone**, while the backend enriches each consent with an ML-predicted privacy risk score. Users can visualize consent history, receive real-time permission notifications, and make informed privacy decisions through an interactive dashboard.
 
 ---
 
-## ☁️ StoreRoom
+## 🚀 Tech Stack
 
-Cloud Storage Platform (SaaS)
+### Frontend
+- React.js
+- Tailwind CSS
 
-**Tech Stack**
-- React
-- Spring Boot
-- AWS S3
-- PostgreSQL
+### Backend
+- Node.js
+- Express.js
 
-### Features
-- JWT Authentication
-- Secure File Uploads
-- AWS S3 Integration
-- Cloud File Management
+### Machine Learning
+- Python
+- FastAPI
+- CatBoost
+- Pandas
+- Scikit-learn
+
+### Database
+- MongoDB
+
+### Browser Extension
+- Chrome Extension APIs
+- Content Scripts
+- Background Service Worker
+
+---
+
+## ✨ Key Features
+
+- 🔐 Capture real-time browser permission events (Location, Camera, Microphone)
+- 📊 Interactive dashboard for consent history and analytics
+- 🤖 AI-powered privacy risk prediction using CatBoost
+- ⚡ Real-time permission notifications on websites
+- 🧠 Feature engineering using consent metadata and third-party trackers
+- 📈 Privacy risk scoring (Low / Medium / High)
+- 🗂️ Centralized consent management with MongoDB
+- 🔄 RESTful microservice architecture using Node.js and FastAPI
+- 🌐 Third-party tracker detection for enhanced privacy analysis
+- 🔧 Manage and verify website permissions directly from the dashboard
 
 ---
 
@@ -165,11 +180,6 @@ Cloud Storage Platform (SaaS)
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=OmGadge01&theme=tokyonight&row=1&column=7)
-
----
 
 # 📫 Connect With Me
 
